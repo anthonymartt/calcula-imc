@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#left {
+    position: fixed;
+    top: 0;
+    width: 30vw;
+    height: 100vb;
+    background-color: blueviolet;
+}
+
+#rigth {
+    width: 70vw;
+    background-color: brown;
+    margin-left: 30vw;
+}
